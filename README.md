@@ -1,5 +1,6 @@
 # COMP5318-machine-learning
 
-Assignment1_2022 file is for assignment question
+Assignment1 task file is Assignment 1_2022.ipynb
 
-SID500334863_SID480010528_code file is question solution
+Assignment1 task file is Assignment 1_2022.ipynb
+
